@@ -30,7 +30,7 @@ export default function Header() {
 
 
     return (
-        <header className={`sticky top-0 z-20 mx-auto w-full py-8 px-4 md:p-0 transition-all duration-300 border-b border-blue-900
+        <header className={`sticky top-0 z-20 mx-auto w-full py-4 px-4 md:p-0 transition-all duration-300 border-b border-blue-900
         ${scrolled ? "bg-[rgba(30, 30, 30, 0.85)] backdrop-blur-md" : "bg-transparent backdrop-blur-none"}
       `}>
             <div className="flex flex-wrap items-center justify-between max-w-6xl md:w-10/12 mx-auto">
