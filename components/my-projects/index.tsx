@@ -16,7 +16,7 @@ const projects = [
     featured: false,
     description: "Personal portfolio website to showcase projects and skills. Design focused on performance and accessibility.",
     techs: ["Next.js", "Tailwind CSS", "TypeScript"],
-    links: { github: "https://github.com/rvenzi/portfolio"}
+    links: { github: "https://github.com/rvenzi/portfolio-dev"}
   },
   {
     id: "03",
