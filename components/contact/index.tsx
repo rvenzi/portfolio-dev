@@ -23,10 +23,10 @@ export default function ContactSection() {
         </p>
 
         <a 
-          href="mailto:renanvenzi@gmail.com"
+          href="mailto:renanvenzidemoura@gmail.com"
           className="group flex items-center gap-3 bg-blue-900 text-black px-8 py-4 rounded-md font-bold text-lg hover:bg-blue-500 transition-all transform hover:-translate-y-1"
         >
-          renanvenzi@gmail.com
+          renanvenzidemoura@gmail.com
           <ArrowUpRight size={20} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
         </a>
 
@@ -34,7 +34,7 @@ export default function ContactSection() {
           <SocialLink href="https://github.com/rvenzi" icon={<LinkIcon size={18} />} label="GitHub" />
           <SocialLink href="https://www.linkedin.com/in/renanvenzi/" icon={<LinkIcon size={18} />} label="LinkedIn" />
           <SocialLink href="https://instagram.com/renanvenzi" icon={<LinkIcon size={18} />} label="Instagram" />
-          <SocialLink href="mailto:renanvenzi@gmail.com" icon={<Mail size={18} />} label="Gmail" />
+          <SocialLink href="mailto:renanvenzidemoura@gmail.com" icon={<Mail size={18} />} label="Gmail" />
         </div>
       </div>
 
