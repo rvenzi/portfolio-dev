@@ -13,16 +13,16 @@ const techStack = [
   {
     category: "Backend",
     skills: [
-      { name: "PHP", level: 2 },
+      { name: "PHP", level: 1 },
       { name: "Python", level: 2 },
-      { name: "C++", level: 1 },
+      { name: "C++", level: 2 },
     ]
   },
   {
     category: "Database",
     skills: [
       { name: "PostgreSQL", level: 2 },
-      { name: "MySQL", level: 3 },
+      { name: "MySQL", level: 2 },
       { name: "Prisma ORM", level: 2 },
     ]
   },
@@ -31,7 +31,7 @@ const techStack = [
     skills: [
       { name: "Git / GitHub", level: 2 },
       { name: "Railway", level: 1 },
-      { name: "Figma", level: 1 },
+      { name: "Figma", level: 3 },
       { name: "VS Code", level: 3 },
     ]
   }

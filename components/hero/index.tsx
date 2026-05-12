@@ -26,7 +26,7 @@ export default function PortfolioHero() {
           </div>
 
           <p className="max-w-md text-zinc-500 leading-relaxed text-sm">
-            Computer Science student at UFJF. I build scalable web solutions from front to back. I have 1.5 years of hands-on experience at CODE JR., with a strong focus on Next.js, TypeScript, and PostgreSQL.
+            Computer Science student at UFJF. I build scalable web solutions from front to back. I have 1 year of hands-on experience at CODE JR., with a strong focus on Next.js, TypeScript.
             </p>
 
           <div className="flex flex-wrap gap-4 pt-4">

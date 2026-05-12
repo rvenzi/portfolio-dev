@@ -26,7 +26,7 @@ export default function AboutSection() {
                 complete web solutions — from the database to the user interface.
               </p>
               <p>
-                During more than a year and a half at <span className="text-white font-medium">CODE JR.</span>, 
+                During year at <span className="text-white font-medium">CODE JR.</span>, 
                 I learned to transform real problems into functional software, 
                 working with clients and teams under market demand. Each project 
                 is an opportunity to grow.
@@ -48,7 +48,7 @@ export default function AboutSection() {
           <div className="grid grid-cols-2 border border-zinc-800/50">
             
             <div className="p-10 border-b border-r border-zinc-800/50 flex flex-col gap-2">
-              <span className="text-4xl font-black italic tracking-tighter text-blue-900">1.5+</span>
+              <span className="text-4xl font-black italic tracking-tighter text-blue-900">1</span>
               <span className="text-[10px] text-zinc-500 uppercase tracking-widest leading-tight">
                 Years at <br /> CODE JR.
               </span>

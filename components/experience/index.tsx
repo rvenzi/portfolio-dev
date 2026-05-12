@@ -7,7 +7,7 @@ const experiences = [
     company: "University of Juiz de Fora",
     role: "Student Researcher",
     description: "Conducting research in the field of software development, focusing on web technologies and database management. Collaborating with professors and peers to explore innovative solutions and contribute to academic publications.",
-    techs: ["C++, HTML", "CSS", "JavaScript"]
+    techs: ["C++", "HTML", "CSS", "JavaScript"]
   },
   {
     period: "Jun 2025 — Present",
