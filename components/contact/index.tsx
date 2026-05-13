@@ -44,7 +44,7 @@ export default function ContactSection() {
         </div>
         
         <p className="text-zinc-600 text-[10px] uppercase tracking-widest text-center">
-          © {currentYear} Renan Venzi. Built with <span className="text-zinc-400">Next.js + Tailwind</span>.
+          © {currentYear} Renan Venzi. All Rights Reserved. Built with <span className="text-zinc-400">Next.js + Tailwind</span>.
         </p>
       </footer>
     </section>

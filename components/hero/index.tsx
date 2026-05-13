@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function PortfolioHero() {
   return (
-    <main id='home' className="min-h-screen bg-[#0a0a0a] text-white relative overflow-hidden flex flex-col justify-start pt-48 md:pt-42 px-6 md:px-24">
+    <main id='home' className="min-h-screen bg-[#0a0a0a] text-white relative overflow-hidden flex flex-col justify-start pt-40 md:pt-35 px-6 md:px-24">
 
       <div className="relative z-10 max-w-6xl mx-auto w-full grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
         

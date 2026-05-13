@@ -34,7 +34,7 @@ export default function Header() {
         ${scrolled ? "bg-[rgba(30, 30, 30, 0.85)] backdrop-blur-md" : "bg-transparent backdrop-blur-none"}
       `}>
             <div className="flex flex-wrap items-center justify-between max-w-6xl md:w-10/12 mx-auto">
-                <Link href="/" className="flex py-5 gap-4 items-center">
+                <Link href="#home" className="flex py-5 gap-4 items-center">
                     <span className="font-imbue sm:text-2xl sm:ml-0 ml-5 text-gray-300 text-3xl font-bold">rv<span className="text-blue-900">.</span></span>
                 </Link>
                 <nav className="flex justify-end" >
